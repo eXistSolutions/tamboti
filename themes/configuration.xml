@@ -1,10 +1,8 @@
 <themes>
-    <theme id="default-theme" name="tamboti" root="/resources/commons/Cluster Publications"/>
-    <theme name="wsc" root="/resources/commons/Wissenschaftssprache Chinesisch"/>
-    <theme name="library" root="/resources/commons/Samples"/>
+    <theme id="default-theme" name="tamboti" root="/resources/bibliography"/>
+    <theme name="library" root="/resources/bibliography"/>
     <theme name="dungan" root="/resources/commons/Dungan Archive"/>
-    <theme name="ppcoll" root="/resources/commons/ppcoll"/>
-    <theme name="default" root="/resources/commons/Cluster Publications"/>
+    <theme name="default" root="/resources/commons/resources/bibliography"/>
 </themes><!--
     Dynamically resolve all resources depending on the current theme.
     A theme is selected by looking at @id="default-theme" in themes/configuration.xml.
